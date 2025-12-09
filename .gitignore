@@ -209,3 +209,6 @@ __marimo__/
 # IntelliJ IDEA
 .idea/
 *.iml
+
+# venv
+fmp-venv
