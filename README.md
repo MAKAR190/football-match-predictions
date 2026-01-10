@@ -9,20 +9,6 @@ This project aims to predict football match outcomes and scores using machine le
 - **High-Score Classification**: Binary classification to predict if a match will have more than 2.5 goals.
 - **AutoML Integration**: Using FLAML for efficient model selection and hyperparameter tuning.
 
-## Project Structure
-
-```text
-football-match-predictions/
-├── data-prep/          # Data preparation scripts
-│   ├── prepare.py      # Main preprocessing script
-│   └── matches.csv     # Raw dataset (input)
-├── models/             # Machine learning notebooks
-│   ├── match_results_regression.ipynb    # Score prediction
-│   └── Klasyfikacja_binarna_wysoki_wynik.ipynb # Over 2.5 goals classification
-├── analysis/           # Analysis results and visualizations
-└── README.md           # Project documentation
-```
-
 ## Getting Started
 
 ### Prerequisites
